@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered bold shield layer -->
+    <path
+        android:pathData="M54,22 C66,22 78,16 78,16 L78,50 C78,68 54,86 54,86 C54,86 30,68 30,50 L30,16 C30,16 42,22 54,22 Z"
+        android:fillColor="#00FF87" />
+    <!-- Inner lock/keyhole silhouette knock-out -->
+    <path
+        android:pathData="M54,34 C49.5,34 46,37.5 46,42 C46,45 47.5,47.5 50,49 L50,62 C50,63.1 50.9,64 52,64 L56,64 C57.1,64 58,63.1 58,62 L58,49 C60.5,47.5 62,45 62,42 C62,37.5 58.5,34 54,34 Z M54,46 C51.8,46 50,44.2 50,42 C50,39.8 51.8,38 54,38 C56.2,38 58,39.8 58,42 C58,44.2 56.2,46 54,46 Z"
+        android:fillColor="#050507" />
+</vector>

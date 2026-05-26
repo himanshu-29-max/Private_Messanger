@@ -1,0 +1,6 @@
+{
+  "name": "The Fortress",
+  "description": "A zero-knowledge, high-security messaging & calling ecosystem with P2P calls, encrypted private rooms, and advanced user identity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
